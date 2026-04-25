@@ -57,5 +57,5 @@ Sinon on affiche le message Contact non trouvé.
 1. Cloner le projet depuis GitHub
 2. Ouvrir le projet dans IntelliJ IDEA
 3. Configurer le JDK 24
-4. Lancer Main.jav
+4. Lancer Main.java
 
